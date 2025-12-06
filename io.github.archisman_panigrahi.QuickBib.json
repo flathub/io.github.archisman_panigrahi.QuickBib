@@ -46,8 +46,8 @@
         },
         {
           "type": "file",
-          "url": "https://files.pythonhosted.org/packages/bd/50/155af519094b8ada41f910c3cfdc534989a6f56af9b2d3e365f4da4ece36/doi2bib3-0.4.0.tar.gz",
-          "sha256": "81bc27d72c984661b1f475f6f6bbe3f135b9998af48563fbcd32e92ab4615095"
+          "url": "https://files.pythonhosted.org/packages/1e/87/79c94573c6489f1ea14786c35bf01a25d3ce55fb9fe594f708a5e8ed6c1b/doi2bib3-0.5.0-py3-none-any.whl",
+          "sha256": "20f300373487081cace19f8538ca77f40cfc603f32c5e53d3f4b7afae480672c"
         },
         {
           "type": "file",
