@@ -5,15 +5,19 @@
   "sdk": "org.kde.Sdk",
   "base": "com.riverbankcomputing.PyQt.BaseApp",
   "base-version": "6.10",
-  "cleanup-commands": [
-    "/app/cleanup-BaseApp.sh"
-  ],
   "finish-args": [
     "--share=network",
     "--socket=wayland",
     "--socket=fallback-x11",
     "--share=ipc",
     "--device=dri"
+  ],
+  "cleanup": [
+    "/share/doc"
+  ],
+  "cleanup-commands": [
+    "/app/cleanup-BaseApp.sh",
+    "python3 -m compileall --invalidation-mode=unchecked-hash /app"
   ],
   "command": "quickbib",
   "build-options": {
