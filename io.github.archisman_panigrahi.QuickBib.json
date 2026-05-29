@@ -50,8 +50,8 @@
         },
         {
           "type": "file",
-          "url": "https://files.pythonhosted.org/packages/e9/7b/b1c2b89e54f623d3f8501196f1d874a373c1c9c77377dbfa3b83f79ea57e/doi2bib3-1.1.1-py3-none-any.whl",
-          "sha256": "a36824e5615cd1cd517067624b41b1799e5e3b330dab76cba17fdafd4053d402"
+          "url": "https://files.pythonhosted.org/packages/37/da/74af04739f00f289395122bd494cae3c0d53572d15aad98007698f093c7a/doi2bib3-1.3.0-py3-none-any.whl",
+          "sha256": "8e0711daf0c97898cbdd31bae20c8f4e2b5073db6ef6adb9d6139f4bbdd4fe29"
         },
         {
           "type": "file",
@@ -82,7 +82,7 @@
         {
           "type": "git",
           "url": "https://github.com/archisman-panigrahi/QuickBib.git",
-          "commit": "9a572a377ed95a7b14819718f0ec595fe649458c"
+          "commit": "af18c8629d7cd9fb5722319b0029ec86ba4ecb46"
         }
       ]
     }
